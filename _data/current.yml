@@ -158,6 +158,13 @@
   twitter: nordictestdays
   status: CFP Open until October 31, 2017
 
+- name: Test Automation Day (TAD) 2018
+  location: Rotterdam, Netherlands
+  dates: "June 21, 2018"
+  url: http://testautomationday.com/
+  twitter: testautomationd
+  status: CFP Open
+
 - name: International Symposium on Software Testing and Analysis (ISSTA) 2018
   location: Amsterdam, Netherlands
   dates: "July 16-22, 2018"
